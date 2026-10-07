@@ -2,8 +2,7 @@
 
 **Author:** Tomasz Rojek (AletheiaCloud) · Independent researcher, Poland
 **Status:** Stage 1 closed (2026-10-06) — 32 experiments, 3 levels of emergent organization, 3 localized architectural boundaries, 1 boundary broken.
-**Archived snapshot (DOI):** [Zenodo v1.0.0] DOI: 10.5281/zenodo.23205500
-
+**Archived snapshot (DOI):** [Zenodo v1.0.0] (https://doi.org/10.5281/zenodo.23205500)
 > We are not building AGI. We are building a digital organism that emerges from minimal rules, without being modeled on biology.
 
 ## Summary
